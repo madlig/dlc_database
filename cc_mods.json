@@ -1,0 +1,702 @@
+[
+  {
+    "code": "01",
+    "name": "All Night Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/All%20Night%20Set.zip"
+  },
+  {
+    "code": "02",
+    "name": "Aubrey Hair Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Aubrey%20Hairset.zip"
+  },
+  {
+    "code": "03",
+    "name": "August Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/August%20Collection.zip"
+  },
+  {
+    "code": "04",
+    "name": "2022 Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/2022%20Collection.zip"
+  },
+  {
+    "code": "05",
+    "name": "Baby its Cold Outside",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Baby%20its%20Cold%20outside.zip"
+  },
+  {
+    "code": "06",
+    "name": "Barbie Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Barbie%20Collection%20CC.zip"
+  },
+  {
+    "code": "07",
+    "name": "Canela Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Canela%20Set.zip"
+  },
+  {
+    "code": "08",
+    "name": "City Adventurer Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/City%20Adventurer%20Collection.zip"
+  },
+  {
+    "code": "09",
+    "name": "Doulce Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Doulce%20Set.zip"
+  },
+  {
+    "code": "10",
+    "name": "Euphoria Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Euphoria%20Collection.zip"
+  },
+  {
+    "code": "11",
+    "name": "Feels Like Summer Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Feels%20Like%20Summer%20Collection.zip"
+  },
+  {
+    "code": "12",
+    "name": "Florence",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Florence.zip"
+  },
+  {
+    "code": "13",
+    "name": "Frostinee",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Frostine.zip"
+  },
+  {
+    "code": "14",
+    "name": "Aurora Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Aurora%20Collection.zip"
+  },
+  {
+    "code": "15",
+    "name": "Hair Pack",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Hair%20Pack.zip"
+  },
+  {
+    "code": "16",
+    "name": "Hijab Pack",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Hijab%20Pack.zip"
+  },
+  {
+    "code": "17",
+    "name": "Human Made Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Human%20Made%20Collection.zip"
+  },
+  {
+    "code": "18",
+    "name": "Korean Female Pack",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Korean%20Female%20Pack.zip"
+  },
+  {
+    "code": "19",
+    "name": "Lily Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Lily%20Set.zip"
+  },
+  {
+    "code": "20",
+    "name": "The Gossip Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Gossip%20Collection.zip"
+  },
+  {
+    "code": "21",
+    "name": "Lovebirds Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Lovebirds%20Collection.zip"
+  },
+  {
+    "code": "22",
+    "name": "Pretty Brutal",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Pretty%20Brutal.zip"
+  },
+  {
+    "code": "23",
+    "name": "School Collection Pt.1",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/School%20Collection%20Pt.1.zip"
+  },
+  {
+    "code": "24",
+    "name": "The Bratz Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Bratz%20Collection.zip"
+  },
+  {
+    "code": "25",
+    "name": "The Greenhouse Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Greenhouse%20Collection.zip"
+  },
+  {
+    "code": "26",
+    "name": "The Paparazzi Pt.1",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Paparazzi%20Collection%20Pt.1.zip"
+  },
+  {
+    "code": "27",
+    "name": "The Paparazzi Pt.2",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Paparazzi%20Collection%20Pt.2.zip"
+  },
+  {
+    "code": "28",
+    "name": "Vespera Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Vespera%20Collection.zip"
+  },
+  {
+    "code": "29",
+    "name": "New Gift Box 1",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%201.zip"
+  },
+  {
+    "code": "30",
+    "name": "New Gift Box 2",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%202.zip"
+  },
+  {
+    "code": "31",
+    "name": "New Gift Box 3",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%203.zip"
+  },
+  {
+    "code": "32",
+    "name": "New Gift Box 4",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%204.zip"
+  },
+  {
+    "code": "33",
+    "name": "New Gift Box 5",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%205.zip"
+  },
+  {
+    "code": "34",
+    "name": "New Gift Box 6",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%206.zip"
+  },
+  {
+    "code": "35",
+    "name": "New Gift Box 7",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%207.zip"
+  },
+  {
+    "code": "36",
+    "name": "New Gift Box 8",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%208.zip"
+  },
+  {
+    "code": "37",
+    "name": "New Gift Box 9",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%209.zip"
+  },
+  {
+    "code": "38",
+    "name": "New Gift Box 10",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%2010.zip"
+  },
+  {
+    "code": "39",
+    "name": "New Gift Box 11",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%2011.zip"
+  },
+  {
+    "code": "40",
+    "name": "New Gift Box 30",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%2030.zip"
+  },
+  {
+    "code": "41",
+    "name": "SEOULSOUL 2024_#16",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202024_%2316.zip"
+  },
+  {
+    "code": "42",
+    "name": "SEOULSOUL 2024_#50",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202024_%2350.zip"
+  },
+  {
+    "code": "43",
+    "name": "SEOULSOUL 2025_#88",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%2388.zip"
+  },
+  {
+    "code": "44",
+    "name": "SEOULSOUL 2025_#89",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%2389.zip"
+  },
+  {
+    "code": "45",
+    "name": "SEOULSOUL 2025_#93",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%2393.zip"
+  },
+  {
+    "code": "46",
+    "name": "SEOULSOUL 2025_#98",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%2398.zip"
+  },
+  {
+    "code": "47",
+    "name": "SEOULSOUL 2025_#110",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%23110.zip"
+  },
+  {
+    "code": "48",
+    "name": "SEOULSOUL 2025_#113",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%23113.zip"
+  },
+  {
+    "code": "49",
+    "name": "SEOULSOUL Fog Hair",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20Fog%20Hair.zip"
+  },
+  {
+    "code": "50",
+    "name": "SEOULSOUL HAIR HUSH CUT",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20HAIR%20HUSH%20CUT.zip"
+  },
+  {
+    "code": "51",
+    "name": "SEOULSOUL HAIR HUSH CUT V2",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20HAIR%20HUSH%20CUT%20V2.zip"
+  },
+  {
+    "code": "52",
+    "name": "SEOULSOUL HAIR_N28",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20HAIR_N28.zip"
+  },
+  {
+    "code": "53",
+    "name": "SEOULSOUL Straight Hair",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20Straight%20Hair.zip"
+  },
+  {
+    "code": "54",
+    "name": "SEOULSOUL Straight Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20Straight%20Set.zip"
+  },
+  {
+    "code": "55",
+    "name": "Alena Hair",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Alena%20Hair.zip"
+  },
+  {
+    "code": "56",
+    "name": "Butter Skin",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Butter%20Skin.zip"
+  },
+  {
+    "code": "57",
+    "name": "Date Night Makeup Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Date%20Night%20Makeup%20Set.zip"
+  },
+  {
+    "code": "58",
+    "name": "Doe Skin",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Doe%20Skin.zip"
+  },
+  {
+    "code": "59",
+    "name": "Dreamy Nails",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Dreamy%20Nails.zip"
+  },
+  {
+    "code": "60",
+    "name": "Euno",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Euno.zip"
+  },
+  {
+    "code": "61",
+    "name": "Eyebrow Set No10",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Eyebrow%20Set%20No10.zip"
+  },
+  {
+    "code": "62",
+    "name": "Saori Hair",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Saori%20Hair.zip"
+  },
+  {
+    "code": "63",
+    "name": "TrueGlow",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/TrueGlow.zip"
+  },
+  {
+    "code": "64",
+    "name": "Hair N65",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BHezeh%5Dhair_no_65_HQ.zip"
+  },
+  {
+    "code": "65",
+    "name": "Hair N68",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BHezeh%5Dhair_no_68_v1_HQ.zip"
+  },
+  {
+    "code": "66",
+    "name": "Hair N100",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/MOOOD_HAIR_100.zip"
+  },
+  {
+    "code": "67",
+    "name": "The Big Day Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Big%20Day%20Collection.zip"
+  },
+  {
+    "code": "68",
+    "name": "The Pompom Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Pompom%20Collection%20by%20Serenity-cc%20(9%20items).zip"
+  },
+  {
+    "code": "69",
+    "name": "The Sophomore Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Sophomore%20Collection%20-%20Sentate's%20CC.zip"
+  },
+  {
+    "code": "70",
+    "name": "The Vetiver Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Vetiver%20Collection%20by%20Serenity.zip"
+  },
+  {
+    "code": "71",
+    "name": "Apple Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Apple%20Set%20(9%20items).zip"
+  },
+  {
+    "code": "72",
+    "name": "Apricot Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Apricot%20Set%20(7%20items).zip"
+  },
+  {
+    "code": "73",
+    "name": "Barbara Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Barbara%20Set%20(9%20items).zip"
+  },
+  {
+    "code": "74",
+    "name": "Camelia Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Camelia%20Set%20(9%20items).zip"
+  },
+  {
+    "code": "75",
+    "name": "CocoDress",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/CocoDress.zip"
+  },
+  {
+    "code": "76",
+    "name": "Dahlia Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Dahlia%20Set%20(12%20items).zip"
+  },
+  {
+    "code": "77",
+    "name": "Fade Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Fade%20Set%20(6%20items).zip"
+  },
+  {
+    "code": "78",
+    "name": "Hazelnut Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Hazelnut%20Set%20(12%20items).zip"
+  },
+  {
+    "code": "79",
+    "name": "LIFT!",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/LIFT!%20(28%20items).zip"
+  },
+  {
+    "code": "80",
+    "name": "Neve Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Neve%20Set%20(12%20items).zip"
+  },
+  {
+    "code": "81",
+    "name": "Nomade Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Nomade%20Set%20(15%20items).zip"
+  },
+  {
+    "code": "82",
+    "name": "Orquideas Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Orquideas%20Set%20(17%20items).zip"
+  },
+  {
+    "code": "83",
+    "name": "Pistachio Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Pistachio%20Set%20(6%20items).zip"
+  },
+  {
+    "code": "84",
+    "name": "Poison Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Poison%20Set%20(8%20items).zip"
+  },
+  {
+    "code": "85",
+    "name": "Sparks Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Sparks%20Set%20(5%20items).zip"
+  },
+  {
+    "code": "86",
+    "name": "SxV Year of the Rabbit",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/SxV%20Year%20of%20the%20Rabbit.zip"
+  },
+  {
+    "code": "87",
+    "name": "The Heartbeat",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Heartbeat.zip"
+  },
+  {
+    "code": "88",
+    "name": "The Sandalwood Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Sandalwood%20Set%20(9%20items).zip"
+  },
+  {
+    "code": "89",
+    "name": "The Vacanza Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Vacanza%20Collection%20(16%20items).zip"
+  },
+  {
+    "code": "90",
+    "name": "Vanilla Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Vanilla%20Set%20(14%20items).zip"
+  },
+  {
+    "code": "91",
+    "name": "Aaron Hair",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Aaron%20Hair.zip"
+  },
+  {
+    "code": "92",
+    "name": "Amelia Hair",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Amelia%20Hair.zip"
+  },
+  {
+    "code": "93",
+    "name": "Bangs Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Bangs%20Set.zip"
+  },
+  {
+    "code": "94",
+    "name": "Billie Hair Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Billie%20Hair%20Set.zip"
+  },
+  {
+    "code": "95",
+    "name": "Bloom Dress",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Bloom%20Dress.zip"
+  },
+  {
+    "code": "96",
+    "name": "Brandy Hair",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Brandy%20Hair.zip"
+  },
+  {
+    "code": "97",
+    "name": "Cherry Makeup",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Cherry%20Makeup.zip"
+  },
+  {
+    "code": "98",
+    "name": "Cloud Eyes",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Cloud%20Eyes.zip"
+  },
+  {
+    "code": "99",
+    "name": "Coco Hair Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Coco%20Hair%20Set.zip"
+  },
+  {
+    "code": "100",
+    "name": "Dark Hour Makeup Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Dark%20Hour%20Makeup%20Set.zip"
+  },
+  {
+    "code": "101",
+    "name": "Elegence Set Daisy",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Elegance%20Set%20Daisy.zip"
+  },
+  {
+    "code": "102",
+    "name": "Eye Candy",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Eye%20Candy.zip"
+  },
+  {
+    "code": "103",
+    "name": "Fawn Skin",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Fawn%20Skin.zip"
+  },
+  {
+    "code": "104",
+    "name": "Fresh Cut Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Fresh%20Cut%20Set.zip"
+  },
+  {
+    "code": "105",
+    "name": "Glass Skin",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Glass%20Skin.zip"
+  },
+  {
+    "code": "106",
+    "name": "Glow Makeup Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Glow%20Makeup%20Set.zip"
+  },
+  {
+    "code": "107",
+    "name": "Heatwave Makeup",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Heatwave%20Makeup.zip"
+  },
+  {
+    "code": "108",
+    "name": "Heide Hair",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Heidi%20Hair.zip"
+  },
+  {
+    "code": "109",
+    "name": "Honey Hair",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Honey%20Hair.zip"
+  },
+  {
+    "code": "110",
+    "name": "Hot Shot Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Hot%20Shot%20Collection.zip"
+  },
+  {
+    "code": "111",
+    "name": "Janie Braids",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Janie%20Braids.zip"
+  },
+  {
+    "code": "112",
+    "name": "Juno Hair",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Juno%20Hair.zip"
+  },
+  {
+    "code": "113",
+    "name": "Lara Skin",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Lara%20Skin.zip"
+  },
+  {
+    "code": "114",
+    "name": "Latte Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Latte%20Set.zip"
+  },
+  {
+    "code": "115",
+    "name": "Lounge Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Lounge%20Set.zip"
+  },
+  {
+    "code": "116",
+    "name": "Mary Hair",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Mary%20Hair.zip"
+  },
+  {
+    "code": "117",
+    "name": "Mikey Hair",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Mikey%20Hair.zip"
+  },
+  {
+    "code": "118",
+    "name": "Oregon Hair",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Oregon%20Hair.zip"
+  },
+  {
+    "code": "119",
+    "name": "Panama Hair",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Panama%20Hair.zip"
+  },
+  {
+    "code": "120",
+    "name": "Philomena Hair",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Philomena%20Hair.zip"
+  },
+  {
+    "code": "121",
+    "name": "Sabre Hair",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Sabre%20Hair.zip"
+  },
+  {
+    "code": "122",
+    "name": "Sawyer Hair",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Sawyer%20Hair.zip"
+  },
+  {
+    "code": "123",
+    "name": "Slayer Makeup Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Slayer%20Makeup%20Set.zip"
+  },
+  {
+    "code": "124",
+    "name": "Soft Glam Makeup Set",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Soft%20Glam%20Makeup%20Set.zip"
+  },
+  {
+    "code": "125",
+    "name": "Spiceberry Lipstick",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Spiceberry%20Lipstick.zip"
+  },
+  {
+    "code": "126",
+    "name": "Stardust Outfit",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Stardust%20Outfit.zip"
+  },
+  {
+    "code": "127",
+    "name": "Stassie Ponytail",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Stassie%20Ponytail.zip"
+  },
+  {
+    "code": "128",
+    "name": "Tulip Dress",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Tulis%20Dress.zip"
+  },
+  {
+    "code": "129",
+    "name": "Xianna Buns",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Xianna%20Buns.zip"
+  },
+  {
+    "code": "130",
+    "name": "[NEW]Calido",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/C%C3%A1lido.zip"
+  },
+  {
+    "code": "131",
+    "name": "[NEW]Cottage Collection",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Cottage%20Collection.zip"
+  },
+  {
+    "code": "132",
+    "name": "[NEW]Floraful",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Floraful.zip"
+  },
+  {
+    "code": "133",
+    "name": "[NEW]GlamAffair Laika Skin",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/GlamAffair%20Laika%20Skin.zip"
+  },
+  {
+    "code": "134",
+    "name": "[NEW]Lovito",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Lovito.zip"
+  },
+  {
+    "code": "135",
+    "name": "[NEW]Orchid",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Orchid.zip"
+  },
+  {
+    "code": "136",
+    "name": "[NEW]Pajama Party",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Pajama%20Party.zip"
+  },
+  {
+    "code": "137",
+    "name": "[NEW]Sunny Day",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Sunny%20Day.zip"
+  },
+  {
+    "code": "138",
+    "name": "[NEW]The Idol",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/The%20Idol.zip"
+  },
+  {
+    "code": "139",
+    "name": "[NEW]Timberland",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Timberland.zip"
+  },
+  {
+    "code": "140",
+    "name": "[NEW]Tres Beau Farah Skin",
+    "url": "https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Tres%20Beau%20Farah%20Skin.zip"
+  }
+]
