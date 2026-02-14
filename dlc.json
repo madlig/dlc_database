@@ -132,7 +132,7 @@
   {
     "code": "GP09",
     "name": "Journey to Batuu",
-    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/GP09/Sims4_DLC_GP09_Journey_to_Batuu.zip"]
+    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/GP09/Sims4_DLC_GP09_Star_Wars_Journey_to_Batuu.zip"]
   },
   {
     "code": "GP10",
@@ -227,17 +227,17 @@
   {
     "code": "SP16",
     "name": "Tiny Living Stuff",
-    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP16/Sims4_DLC_SP16_Tiny_Living_Stuff.zip"]
+    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP16/Sims4_DLC_SP16_Tiny_Living_Stuff_Pack.zip"]
   },
   {
     "code": "SP17",
     "name": "Nifty Knitting Stuff",
-    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP17/Sims4_DLC_SP17_Nifty_Knitting_Stuff.zip"]
+    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP17/Sims4_DLC_SP17_Nifty_Knitting.zip"]
   },
   {
     "code": "SP18",
     "name": "Paranormal Stuff",
-    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP18/Sims4_DLC_SP18_Paranormal_Stuff.zip"]
+    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP18/Sims4_DLC_SP18_Paranormal_Stuff_Pack.zip"]
   },
   {
     "code": "SP20",
@@ -262,17 +262,17 @@
   {
     "code": "SP24",
     "name": "Industrial Loft Kit",
-    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP24/Sims4_DLC_SP24_Industrial_Loft_Kit.zip"]
+    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP25/Sims4_DLC_SP25_Industrial_Loft_Kit.zip"]
   },
   {
     "code": "SP25",
     "name": "Incheon Arrivals Kit",
-    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP25/Sims4_DLC_SP25_Incheon_Arrivals_Kit.zip"]
+    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP26/Sims4_DLC_SP26_Incheon_Arrivals_Kit.zip"]
   },
   {
     "code": "SP26",
     "name": "Fashion Street Kit",
-    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP26/Sims4_DLC_SP26_Fashion_Street_Kit.zip"]
+    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP24/Sims4_DLC_SP24_Fashion_Street_Kit.zip"]
   },
   {
     "code": "SP28",
@@ -367,7 +367,7 @@
   {
     "code": "SP46",
     "name": "Home Chef Hustle Stuff",
-    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP46/Sims4_DLC_SP46_Home_Chef_Hustle_Stuff.zip"]
+    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP46/Sims4_DLC_SP46_Home_Chef_Hustle_Stuff_Pack.zip"]
   },
   {
     "code": "SP47",
@@ -382,7 +382,7 @@
   {
     "code": "SP49",
     "name": "Crystal Creations Stuff",
-    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP49/Sims4_DLC_SP49_Crystal_Creations_Stuff.zip"]
+    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP49/Sims4_DLC_SP49_Crystal_Creations_Stuff_Pack.zip"]
   },
   {
     "code": "SP50",
@@ -460,5 +460,6 @@
     "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP77/SP77.zip"]
   }
 ]
+
 
 
