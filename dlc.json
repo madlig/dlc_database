@@ -448,15 +448,16 @@
     "code": "SP73",
     "name": "Modern Retreat Kit",
     "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP73/Sims4_DLC_SP73_Modern_Retreat_Kit.zip"]
-  }
+  },
   {
     "code": "SP76",
     "name": "Silver Screen Style Kit",
     "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP76/SP76.zip"]
-  }
+  },
   {
     "code": "SP77",
     "name": "Tea Time Solarium Kit",
     "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP77/SP77.zip"]
-  }
+  },
 ]
+
