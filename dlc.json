@@ -85,6 +85,11 @@
     "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/EP17/Sims4_DLC_EP17_Life_and_Death.zip"]
   },
   {
+    "code": "EP21",
+    "name": "Royalty & Legacy",
+    "url_parts": ["https://huggingface.co/datasets/suprmad/EP21/resolve/main/Sims4_DLC_EP021_Royalty_and_Legacy.zip"]
+  },
+  {
     "code": "GP01",
     "name": "Outdoor Retreat",
     "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/GP01/Sims4_DLC_GP01_Outdoor_Retreat.zip"]
@@ -443,5 +448,15 @@
     "code": "SP73",
     "name": "Modern Retreat Kit",
     "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP73/Sims4_DLC_SP73_Modern_Retreat_Kit.zip"]
+  }
+  {
+    "code": "SP76",
+    "name": "Silver Screen Style Kit",
+    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP76/SP76.zip"]
+  }
+  {
+    "code": "SP77",
+    "name": "Tea Time Solarium Kit",
+    "url_parts": ["https://github.com/l1ntol/lunia-dlc/releases/download/SP77/SP77.zip"]
   }
 ]
