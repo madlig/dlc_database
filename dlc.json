@@ -85,6 +85,21 @@
     "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_EP17_Life_and_Death.zip"]
   },
   {
+    "code": "EP18",
+    "name": "Business & Hobbies",
+    "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_EP18_Businesses_and_Hobbies.zip"]
+  },
+  {
+    "code": "EP19",
+    "name": "Business & Hobbies",
+    "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_EP19_Enchanted_by_Nature_Expansion_Pack.zip"]
+  },
+  {
+    "code": "EP20",
+    "name": "Business & Hobbies",
+    "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_EP20_Adventure_Awaits_Expansion_Pack.zip"]
+  },
+  {
     "code": "EP21",
     "name": "Royalty & Legacy",
     "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_EP021_Royalty_and_Legacy.zip"]
@@ -460,6 +475,7 @@
     "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/SP77.zip"]
   }
 ]
+
 
 
 
