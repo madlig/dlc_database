@@ -91,12 +91,12 @@
   },
   {
     "code": "EP19",
-    "name": "Business & Hobbies",
+    "name": "Enchanted by Nature",
     "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_EP19_Enchanted_by_Nature_Expansion_Pack.zip"]
   },
   {
     "code": "EP20",
-    "name": "Business & Hobbies",
+    "name": "Adventure Awaits",
     "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_EP20_Adventure_Awaits_Expansion_Pack.zip"]
   },
   {
@@ -475,6 +475,7 @@
     "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/SP77.zip"]
   }
 ]
+
 
 
 
