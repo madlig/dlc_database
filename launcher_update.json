@@ -1,0 +1,6 @@
+{
+  "version": "8.0.3",
+  "url": "https://your-cdn-or-github-release/MyGameON_Launcher_8.0.3.exe",
+  "sha256": "ISI_HASH_SHA256_FILE_EXE",
+  "notes": "Fix DLC extraction, CC Mods path, and updater improvements"
+}
