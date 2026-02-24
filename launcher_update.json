@@ -1,5 +1,5 @@
 {
-  "version": "8.0.3",
+  "version": "8.0.2",
   "url": "https://github.com/madlig/dlc_database/releases/download/v8.0.3/MyGameON_Launcher.exe",
   "sha256": "726b9b43481b56ba2872c48921a70a8d06ae92e22111de95c53783b1c58f34aa",
   "notes": "Fix DLC extraction wrapper, CC mods path ke Documents, stabilitas updater."
