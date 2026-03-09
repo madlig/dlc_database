@@ -437,7 +437,7 @@
   {
     "code": "SP68",
     "name": "Spongebob's House Kit",
-    "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/SP68.zip"]
+    "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_SP68_SpongeBob_House_Kit.zip"]
   },
   {
     "code": "SP69",
@@ -447,7 +447,7 @@
   {
     "code": "SP70",
     "name": "Spongebob Kid's Room Kit",
-    "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/SP70.zip"]
+    "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_SP70_SpongeBob_Kid_Room_Kit.zip"]
   },
   {
     "code": "SP71",
@@ -467,14 +467,15 @@
   {
     "code": "SP76",
     "name": "Silver Screen Style Kit",
-    "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/SP76.zip"]
+    "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/SP76 0.zip"]
   },
   {
     "code": "SP77",
     "name": "Tea Time Solarium Kit",
-    "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/SP77.zip"]
+    "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/SP77 0.zip"]
   }
 ]
+
 
 
 
