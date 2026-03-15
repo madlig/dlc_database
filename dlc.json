@@ -430,6 +430,61 @@
     "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_SP55_Storybook_Nursery_Kit.zip"]
   },
   {
+    "code": "SP56",
+    "name": "Storybook Nursery Kit",
+    "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_SP55_Storybook_Nursery_Kit.zip"]
+  },
+  {
+      "code": "SP57",
+      "name": "Cozy Kitsch Kit",
+      "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_SP57_Cozy_Kitsch_Kit.zip"]
+  },
+  {
+      "code": "SP58",
+      "name": "Comfy Gamer Kit",
+      "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_SP58_Comfy_Gamer_Kit.zip"]
+   },
+   {
+      "code": "SP59",
+      "name": "Secret Sanctuary Kit",
+      "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_SP59_Secret_Sanctuary_Kit.zip"]
+  },
+  {
+      "code": "SP60",
+      "name": "Casanova Cave Kit",
+      "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_SP60_Casanova_Cave_Kit.zip"]
+  },
+  {
+      "code": "SP61",
+      "name": "Refined Living Room Kit",
+      "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_SP61_Refined_Living_Room_Kit.zip"]
+  },
+  {
+      "code": "SP62",
+      "name": "Business Chic Kit",
+      "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_SP62_Business_Chic_Kit.zip"]
+  },
+  {
+      "code": "SP63",
+      "name": "Sleek Bathroom Kit",
+      "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_SP63_Sleek_Bathroom_Kit.zip"]
+  },
+  {
+      "code": "SP64",
+      "name": "Sweet Allure Kit",
+      "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_SP64_Sweet_Allure_Kit.zip"]
+  },
+  {
+      "code": "SP65",
+      "name": "Restoration Workshop Kit",
+      "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_SP65_Restoration_Workshop_Kit.zip"]
+  },
+  {
+      "code": "SP66",
+      "name": "Golden Years Kit",
+      "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_SP66_Golden_Years_Kit.zip"]
+  }, 
+  {
     "code": "SP67",
     "name": "Kitchen Clutter Kit",
     "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_SP67_Kitchen_Clutter_Kit.zip"]
