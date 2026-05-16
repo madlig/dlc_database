@@ -1,8 +1,9 @@
 {
-  "version": "8.0.4",
-  "url": "https://github.com/madlig/dlc_database/releases/download/v8.0.4/MyGameoN_Launcher-8.0.4.zip",
-  "sha256": "b98ce8094a53875ac5f4ed4b54ebcb6d32aae2c199b0a913e79139259dae6450",
-  "notes": "Perbaikan performa download, stabilitas download.",
+  "version": "9.0.0",
+  "package_url": "https://github.com/madlig/dlc_database/releases/download/v9.0.0/MyGameON_Launcher_v9.0.0.zip",
+  "package_sha256": "02b5eedb8add2feef2147d36a05cac86a6a8a644d295f4440f6ccc6ccd093e65",
+  "notes": "Stability fixes, download concurrency locks, DB caching, offline Tailwind",
   "mandatory": true,
-  "allow_skip": false
+  "allow_skip": false,
+  "updated_at": "2026-05-16 18:16:43"
 }
