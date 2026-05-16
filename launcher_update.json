@@ -1,9 +1,9 @@
 {
-  "version": "9.0.0",
-  "package_url": "https://github.com/madlig/dlc_database/releases/download/v9.0.0/MyGameON_Launcher_v9.0.0.zip",
-  "package_sha256": "02b5eedb8add2feef2147d36a05cac86a6a8a644d295f4440f6ccc6ccd093e65",
-  "notes": "Stability fixes, download concurrency locks, DB caching, offline Tailwind",
+  "version": "9.0.1",
+  "package_url": "https://github.com/madlig/dlc_database/releases/download/v9.0.1/MyGameON_Launcher_v9.0.1.zip",
+  "package_sha256": "debb7a18ce937a49fff168dd183fb993a73223fd56425a4beeb352ca50ad47a4",
+  "notes": "standard tidak bisa bypass ke fitur premium",
   "mandatory": true,
   "allow_skip": false,
-  "updated_at": "2026-05-16 18:16:43"
+  "updated_at": "2026-05-16 20:06:50"
 }
