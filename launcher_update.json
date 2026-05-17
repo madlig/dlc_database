@@ -1,9 +1,9 @@
 {
-  "version": "9.0.1",
-  "package_url": "https://github.com/madlig/dlc_database/releases/download/v9.0.1/MyGameON_Launcher_v9.0.1.zip",
-  "package_sha256": "debb7a18ce937a49fff168dd183fb993a73223fd56425a4beeb352ca50ad47a4",
-  "notes": "standard tidak bisa bypass ke fitur premium",
+  "version": "10.0.0",
+  "package_url": "https://github.com/madlig/dlc_database/releases/download/v10.0.0/MyGameON_Launcher_v10.0.0.zip",
+  "package_sha256": "c2329b65bfdfbcd9afe65905b4933347cc707ebdddfd2f9d4bda27556423889e",
+  "notes": "UI/UX Diperbarui, Panduan Page, Storage Management Page, New Dashboard Page, Fix DLC Unlocker Bug",
   "mandatory": true,
   "allow_skip": false,
-  "updated_at": "2026-05-16 20:06:50"
+  "updated_at": "2026-05-18 00:13:48"
 }
