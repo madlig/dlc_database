@@ -1,9 +1,9 @@
 {
-  "version": "10.0.1",
-  "package_url": "https://github.com/madlig/dlc_database/releases/download/v10.0.1/MyGameON_Launcher_v10.0.1.zip",
-  "package_sha256": "8a67f00e2c41d9678eebda0d02fdcd15e1822e469a387bdd2e418cb7f2830ee4",
-  "notes": "DLC Unlocker Try Fix",
+  "version": "10.0.2",
+  "package_url": "https://github.com/madlig/dlc_database/releases/download/v10.0.2/MyGameON_Launcher_v10.0.2.zip",
+  "package_sha256": "ee45ac72593a4d644af3756cfa8d1731b5e96aa0f7d34048bc18938335e4b1c0",
+  "notes": "-CC Mods Download Fix",
   "mandatory": true,
   "allow_skip": false,
-  "updated_at": "2026-05-18 01:11:59"
+  "updated_at": "2026-05-19 23:30:51"
 }
