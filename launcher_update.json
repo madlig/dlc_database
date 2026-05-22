@@ -1,9 +1,9 @@
 {
-  "version": "10.0.3",
-  "package_url": "https://github.com/madlig/dlc_database/releases/download/v10.0.3/MyGameON_Launcher_v10.0.3.zip",
-  "package_sha256": "436d7a9ad2a9e91d796791bbbb9a2c5cadf8b9794b61cbd2145241e1c4000aed",
-  "notes": "-update zip file password",
+  "version": "10.0.4",
+  "package_url": "https://github.com/madlig/dlc_database/releases/download/v10.0.4/MyGameON_Launcher_v10.0.4_update.zip",
+  "package_sha256": "5d57e5a47d3328150cc927468046b6c8a1a1ae713563c94687d994001074f859",
+  "notes": "-manual update fix",
   "mandatory": true,
   "allow_skip": false,
-  "updated_at": "2026-05-20 15:32:58"
+  "updated_at": "2026-05-22 10:35:10"
 }
