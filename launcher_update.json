@@ -1,9 +1,9 @@
 {
-  "version": "10.0.8",
-  "package_url": "https://github.com/madlig/dlc_database/releases/download/v10.0.8/MyGameON_Launcher_v10.0.8_update.zip",
-  "package_sha256": "cd3751417280f6c0d0db52a812f11f9ceccd712a1045f4f966593fff6535e756",
-  "notes": "Fix error layar blank saat aplikasi dibuka. Upgrade ke sistem Native Windows UI agar lebih ringan dan anti-crash.",
-  "mandatory": false,
-  "allow_skip": true,
-  "updated_at": "2026-07-21 23:44:36"
+  "version": "10.0.9",
+  "package_url": "https://github.com/madlig/dlc_database/releases/download/v10.0.9/MyGameON_Launcher_v10.0.9_update.zip",
+  "package_sha256": "069df38245f5e13a7c0957782b62c02c035a2a1c31bb5d77f79b51905ecec443",
+  "notes": "fix error browser",
+  "mandatory": true,
+  "allow_skip": false,
+  "updated_at": "2026-07-22 01:27:06"
 }
