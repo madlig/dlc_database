@@ -1,9 +1,9 @@
 {
-  "version": "10.0.6",
-  "package_url": "https://github.com/madlig/dlc_database/releases/download/v10.0.6/MyGameON_Launcher_v10.0.6_update.zip",
-  "package_sha256": "3ebed9190f6928e9132e4b9754c2e455bf6c60713361cb3c931253e8ba7dc610",
-  "notes": "-Fix error Aw, Snap! saat membuka launcher",
+  "version": "10.0.7",
+  "package_url": "https://github.com/madlig/dlc_database/releases/download/v10.0.7/MyGameON_Launcher_v10.0.7_update.zip",
+  "package_sha256": "c9241d872809fd1da250281b7926561b9f27382e32038e0ad46a9a92f9e68a80",
+  "notes": "-fix error browser",
   "mandatory": false,
   "allow_skip": true,
-  "updated_at": "2026-07-21 15:39:33"
+  "updated_at": "2026-07-21 22:39:08"
 }
