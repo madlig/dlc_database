@@ -550,6 +550,11 @@
     "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/SP79.zip"]
   },
   {
+    "code": "SP80",
+    "name": "Music Den Kit",
+    "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_SP80_Music_Den_Kit.zip"]
+  },
+  {
     "code": "SP81",
     "name": "Prairie Dreams Kit",
     "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_SP81_Prairie_Dreams_Kit.zip"]
