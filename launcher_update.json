@@ -1,9 +1,9 @@
 {
-  "version": "10.0.11",
-  "package_url": "https://github.com/madlig/dlc_database/releases/download/v10.0.11/MyGameON_Launcher_v10.0.11_update.zip",
-  "package_sha256": "8c754aeb79fb4ac35dbbffe89b38e5e9a5d2a67462543df37707b662079681ce",
-  "notes": "update DLC",
+  "version": "10.0.12",
+  "package_url": "https://github.com/madlig/dlc_database/releases/download/v10.0.12/MyGameON_Launcher_v10.0.12_update.zip",
+  "package_sha256": "e5ad614200da77177054d715f3aa6daefb7a8cd63bd9749db5434b6a9a56329c",
+  "notes": "update sistem mekanisme Unlocker",
   "mandatory": true,
   "allow_skip": false,
-  "updated_at": "2026-08-07 20:33:11"
+  "updated_at": "2026-08-08 01:33:49"
 }
