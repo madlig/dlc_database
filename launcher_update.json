@@ -1,9 +1,9 @@
 {
-  "version": "10.0.10",
-  "package_url": "https://github.com/madlig/dlc_database/releases/download/v10.0.10/MyGameON_Launcher_v10.0.10_update.zip",
-  "package_sha256": "1f2807d3ba5b1345bf5dd73e7eb0627aa8c48addc87647c62aa8afe0d12e026f",
-  "notes": "-fix error CC tidak muncul",
+  "version": "10.0.11",
+  "package_url": "https://github.com/madlig/dlc_database/releases/download/v10.0.11/MyGameON_Launcher_v10.0.11_update.zip",
+  "package_sha256": "8c754aeb79fb4ac35dbbffe89b38e5e9a5d2a67462543df37707b662079681ce",
+  "notes": "update DLC",
   "mandatory": true,
   "allow_skip": false,
-  "updated_at": "2026-07-22 16:29:31"
+  "updated_at": "2026-08-07 20:33:11"
 }
