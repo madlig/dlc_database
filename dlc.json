@@ -563,12 +563,12 @@
     "code": "SP82",
     "name": "Yard Charm Kit",
     "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_SP82_Yard_Charm_Kit.zip"]
-  }
+  },
   {
     "code": "SP83",
     "name": "Mean Girls Capsule Kit",
     "url_parts": ["https://huggingface.co/datasets/suprmad/DLC/resolve/main/Sims4_DLC_SP83_Mean_Girls_Capsule_Kit.zip"]
-  }
+  },
   {
     "code": "SP84",
     "name": "Clueless Capsule Kit",
